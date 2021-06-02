@@ -27,7 +27,7 @@ GuessTheWord-это игра в стиле шарад с двумя игрока
 - https://developer.android.com/codelabs/kotlin-android-training-view-model?index=..%2F..android-kotlin-fundamentals#0 /
 * Код стартовый /
 - https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps/tree/master/GuessTheWord-Starter /
-Код решения /
+* Код решения /
 - https://github.com/google-developer-training/android-kotlin-fundamentals-apps/tree/master/GuessTheWordViewModel /
 * Код стартовый /
 - https://github.com/google-developer-training/android-kotlin-fundamentals-apps/tree/master/GuessTheWordViewModel /
